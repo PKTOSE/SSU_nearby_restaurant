@@ -1,0 +1,33 @@
+﻿  FirstApp1.cpp
+C:\Users\KHW\Downloads\FirstApp1\tipsware.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\KHW\Downloads\FirstApp1\FirstApp1.cpp(52,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KHW\Downloads\FirstApp1\FirstApp1.cpp(94,23): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KHW\Downloads\FirstApp1\FirstApp1.cpp(136,19): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LINK : warning LNK4098: 'LIBCMT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  코드를 생성하고 있습니다.
+  4 of 205 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+RST_EasyWin32.lib(EasyAPI.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(EasyAPI.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+RST_EasyWin32.lib(TW_String.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(TW_String.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+RST_EasyWin32.lib(MessageMap.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(MessageMap.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+RST_EasyWin32.lib(pch.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(pch.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+RST_EasyWin32.lib(TW_Display.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(TW_Display.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+RST_EasyWin32.lib(EasyWin32.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(EasyWin32.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+RST_EasyWin32.lib(TW_MemDC.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(TW_MemDC.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+RST_EasyWin32.lib(TW_Control.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(TW_Control.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+RST_EasyWin32.lib(TW_ListExt.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(TW_ListExt.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+RST_EasyWin32.lib(GdiObjectcpp.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(GdiObjectcpp.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+RST_EasyWin32.lib(TimerManager.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(TimerManager.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+RST_EasyWin32.lib(TW_Button.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(TW_Button.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+RST_EasyWin32.lib(TW_Edit.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(TW_Edit.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+RST_EasyWin32.lib(TW_ListBox.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(TW_ListBox.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+RST_EasyWin32.lib(TW_ComboBox.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(TW_ComboBox.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+RST_EasyWin32.lib(TW_ServerSocket.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(TW_ServerSocket.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+RST_EasyWin32.lib(TW_ClientSocket.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(TW_ClientSocket.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+RST_EasyWin32.lib(NormalKeyBoard.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(NormalKeyBoard.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+RST_EasyWin32.lib(TW_GdiPlus.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(TW_GdiPlus.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+RST_EasyWin32.lib(TargetImage.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(TargetImage.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+RST_EasyWin32.lib(Clipboard.obj) : warning LNK4099: '' PDB를 'RST_EasyWin32.lib(Clipboard.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  FirstApp1.vcxproj -> C:\Users\KHW\Downloads\FirstApp1\Release\FirstApp1.exe
